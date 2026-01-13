@@ -68,4 +68,4 @@ deployment and verification:
 - https://sepolia.basescan.org/address/your_address
 - https://sepolia.basescan.org/your_address/0#code  
 
-these deployments provide a controlled environment for validating base tooling and read-only onchain access prior to base mainnet usage.
+These deployment provides a controlled environment for validating base tooling and read-only onchain access prior to base mainnet usage.
